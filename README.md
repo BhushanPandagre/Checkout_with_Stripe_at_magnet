@@ -17,7 +17,7 @@ of features of Stripe.js.
 
 ## Minimum requirements
 
-- Node.js:v18.18.0
+- Node.js:v20.11.0
 
 ## Technology Stack
 
