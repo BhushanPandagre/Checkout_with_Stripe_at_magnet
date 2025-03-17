@@ -1,4 +1,4 @@
-﻿# checkout_with_stripe_Magnet_Brains
+﻿# checkout_with_stripe_at_Magnet
 
 This package allows [Stripe.js](https://stripe.com/docs/stripe-js) to be
 imported as a CommonJS module or ES module.
@@ -51,9 +51,9 @@ nodemon server.js
 
 ### Clone the Repository
 ```bash
-git clone <(https://github.com/BhushanPandagre/checkout_with_stripe_Magnet_Brains.git)>
+git clone <(https://github.com/BhushanPandagre/Checkout_with_Stripe_at_magnet.git)>
 cd client
-cd  Checkout with Stripe
+cd  Checkout with Stripe in node 
 
 ### Install Dependencies
 Run the following command to install all required dependencies:
@@ -124,5 +124,5 @@ import '@stripe/stripe-js';
 🚀 **Developer | Programmer | Innovator**  
 
 📧 **Contact**: [pandagrebhushan3@gmail.com] 
-🌐 **Portfolio**: [(https://logo-generator-ra9f.vercel.app/)]  
+🌐 **Portfolio**: [(https://portfolio-bhushan-ra9f.vercel.app/)]  
 💼 **LinkedIn**: [www.linkedin.com/in/bhushan-pandagre ]
